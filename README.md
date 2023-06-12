@@ -1,4 +1,4 @@
-# coursera-test
+# test
 test repository
 https://pages-themes.github.io/dinky/
 https://pages-themes.github.io/midnight/
